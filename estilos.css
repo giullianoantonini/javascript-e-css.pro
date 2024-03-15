@@ -1,0 +1,35 @@
+header {
+    display: flex;
+    background-color: #DFE6ED;
+}
+
+body {
+    background-color: #C3CFD9;
+}
+
+header h1 {
+    margin-left: 666px;
+    margin-right: auto;
+}
+
+header button {
+    color: white;
+    background-color: #4B5C6B;
+    height: 30px;
+    width: 100px;
+    margin: 25px 5px;
+}
+
+.divInputs input,
+button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 30px;
+    width: 1500px;
+}
+
+.divInputs button {
+    color: white;
+    background-color: #4B5C6B;
+}
