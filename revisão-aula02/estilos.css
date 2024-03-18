@@ -76,8 +76,9 @@ button {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    padding: 5px;
+    padding: 0px;
     width: 95%;
     border-radius: 3px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
